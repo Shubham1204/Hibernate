@@ -1,2 +1,2 @@
 # Hibernate
-Using hibernate configuration xml in spring
+Using hibernate configuration xml in spring application
